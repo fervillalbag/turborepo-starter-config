@@ -1,0 +1,25 @@
+{
+  "eslint.workingDirectories": [
+    "./apps/api",
+    "./apps/docs",
+    "./apps/web",
+  ],
+  "cSpell.words": [
+    "autopopulate",
+    "bingbot",
+    "browserconfig",
+    "Casl",
+    "codegen",
+    "cwebsocket",
+    "googlebot",
+    "heroicons",
+    "msapplication",
+    "nestjs",
+    "QLISO",
+    "semibold",
+    "tailwindcss",
+    "toastify",
+    "turborepo",
+    "typy"
+  ],
+}
